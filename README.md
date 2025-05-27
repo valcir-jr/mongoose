@@ -107,7 +107,7 @@ application/json" -d "{\"professor\": \"68363b2ceea4a95a509e459f\", \"disciplina
 ***Resposta***  
 {"professor":"68363b2ceea4a95a509e459f","disciplina":"6836402feea4a95a509e45ae","_id":"68364173eea4a95a509e45b8","__v":0}
 
-(30) Listando professores e disciplinas
+### (30) Listando professores e disciplinas
 ***Comando***  
 curl -X GET http://localhost:3000/professor_has_disciplina  
 ***Resposta***   
